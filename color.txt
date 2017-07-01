@@ -6,3 +6,4 @@ blue
 again we are working on master branch
 add some task 
 start working on project
+after learning the git we start working on the project
